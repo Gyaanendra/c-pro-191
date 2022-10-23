@@ -1,0 +1,396 @@
+{
+    "worldQuiz": {
+        "taj": {
+            "questions": {
+                "q1": {
+                    "Ques": "what places did you saw",
+                    "answer": "Taj Mahal , gwc , rio, "
+                },
+                "q2": {
+                    "Ques": "In which state of India is the Taj Mahal situated?",
+                    "option1": "Maharashtra",
+                    "option2": "Uttar Pradesh",
+                    "option3": "Uttarakhand",
+                    "option4": "Madhya Pradesh",
+                    "answer": "Uttar Pradesh"
+                },
+                "q3": {
+                    "Ques": " Who was the chief architect of the Taj Mahal?",
+                    "option1": "Shah Jahan",
+                    "option2": "Ustad Aḥmad Lahawrī",
+                    "option3": "Ustad Bismillah Khan",
+                    "option4": "Ustad Amjad Ali Khan",
+                    "answer": "Ustad Aḥmad Lahawrī"
+                },
+                "q4": {
+                    "Ques": "How many years did it take to complete the complex?",
+                    "option1": "Approx 20 years",
+                    "option2": "Approx 21 years",
+                    "option3": "Approx 22 years",
+                    "option4": "Approx 23 years",
+                    "answer": "Approx 22 years"
+                },
+                "q5": {
+                    "Ques": "When was a restoration and research program for the Taj Mahal initiated?",
+                    "option1": "1990",
+                    "option2": "2007",
+                    "option3": "2024",
+                    "option4": "1998",
+                    "answer": "1998"
+                },
+                "q6": {
+                    "Ques": "When was the Taj Mahal designated a UNESCO World Heritage Site?",
+                    "option1": "1983",
+                    "option2": "456",
+                    "option3": "2020",
+                    "option4": "2018",
+                    "answer": "1983"
+                },
+                "q7": {
+                    "Ques": "Which of the following is/are the principal element of the Taj Mahal complex?",
+                    "option1": "Mosque",
+                    "option2": "Jawāb",
+                    "option3": "Main gateway",
+                    "option4": "All the above",
+                    "answer": "All the above"
+                }
+            }
+        },
+        "rio": {
+            "questions": {
+                "q1": {
+                    "Ques": "where are you?",
+                    "option1": "Christ the Redeemer",
+                    "option2": "Rio",
+                    "option3": "愚か者",
+                    "option4": "ідіот",
+                    "answer": "Christ the Redeemer"
+                },
+                "q2": {
+                    "Ques": "The statue was completed in what year?",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q3": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q4": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q5": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q6": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q7": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q8": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q9": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q10": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                }
+            }
+        },
+        "pyramids": {
+            "questions": {
+                "q1": {
+                    "Ques": "where are you?",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q2": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q3": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q4": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q5": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q6": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q7": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q8": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q9": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q10": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                }
+            }
+        },
+        "petra-jordan": {
+            "questions": {
+                "q1": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q2": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q3": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q4": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q5": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q6": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q7": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q8": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q9": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q10": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                }
+            }
+        },
+        "gwc": {
+            "questions": {
+                "q1": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q2": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q3": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q4": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q5": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q6": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q7": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q8": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q9": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                },
+                "q10": {
+                    "Ques": "",
+                    "option1": "",
+                    "option2": "",
+                    "option3": "",
+                    "option4": "",
+                    "answer": ""
+                }
+            }
+        }
+    }
+}
